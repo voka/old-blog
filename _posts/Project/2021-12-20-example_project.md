@@ -2,6 +2,7 @@
 title: "MyProject-예시"
 categories:
   - MyProject
+published: false
 tags:
   - MyProject
   - Android

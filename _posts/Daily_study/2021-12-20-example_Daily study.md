@@ -2,6 +2,7 @@
 title: "Study-예시"
 categories:
   - Daily Study
+published: false
 tags:
   - Study
   - Android
