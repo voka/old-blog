@@ -1,7 +1,7 @@
 ---
 title: "RESR(ful) API란?"
 categories:
-  - Daily Study
+  - Server
 toc: true
 toc_sticky: true
 tags:

@@ -1,7 +1,9 @@
 ---
 title: "위상정렬(Topological Sort)"
 categories:
-  - Daily Study
+  - Algorithm
+toc: true
+toc_sticky: true
 tags:
   - C++
   - python
