@@ -2,6 +2,8 @@
 title: "RESR(ful) API란?"
 categories:
   - Daily Study
+toc: true
+toc_sticky: true
 tags:
   - Study
   - Android
